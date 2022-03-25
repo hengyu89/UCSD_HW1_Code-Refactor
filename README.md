@@ -15,6 +15,14 @@ In the website page, you are able to see the function and capability of the comp
 
 For convenience, you could click the title on the right top side to quickly jump to the area of description.
 
+## What the program did
+
+> * All use semantic HTML elements. (No "div")
+> * elements follow a logical structure independent of styling and positioning. (Webpage looks organized)
+> * All images have accessible alt attributes.
+> * All heading attributes fall in sequential order.
+> * Have a concise, descriptive title.
+
 ## Linking Webpage
 
 If you would like to see the webpage, click the link below:
