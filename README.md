@@ -4,7 +4,9 @@ Homework 1 which assigned at the 1st week. For learning html css.
 ## Story
 
 ```
-As a marketing agency, the client want a codebase that follows accessibility standards. So that their site is potimized for search engines.
+As a marketing agency, 
+the client want a codebase that follows accessibility standards. 
+So that their site is potimized for search engines.
 ```
 
 ## Description
@@ -20,3 +22,10 @@ If you would like to see the webpage, click the link below:
 ```
 https://hengyu89.github.io/UCSD_HW1_Code-Refactor/#social-media-marketing
 ```
+
+## Screenshot of Webpage
+
+With the adjustion of width of the browser screen (narrow the screen). The webpage will looks like this.
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/demo1.png)
+![Comtinue of the previous image](./assets/images/demo2.png)
